@@ -1,6 +1,7 @@
 ## 🙋🏽 This is me
 Hi there, I'm Taheera (pronounced Tahira) and I'm a ✨Computer Science✨ student at Norwegian University of Science and Technology. Currently on my 3rd year, only 2 more to go woo
 
+<a href=”<a href=”https://www.linkedin.com/in/taheera-ahmed-997750158/"><img src=”https://img.shields.io/endpoint?color=blue&label=taheeraahmed&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftaheera-ahmed-997750158%2F"></a>"></a>
 
 ## 🌝 About my repo's
 I use github mostly for projects at school.
