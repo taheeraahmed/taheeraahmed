@@ -1,7 +1,6 @@
 ## 🙋🏽 This is me
 Hi there, I'm Taheera (pronounced Tahira) and I'm a ✨Computer Science✨ student at Norwegian University of Science and Technology. Currently on my 3rd year, only 2 more to go woo
 
-![Profile views](https://gpvc.arturio.dev/taheeraahmed)
 
 ## 🌝 About my repo's
 I use github mostly for projects at school.
