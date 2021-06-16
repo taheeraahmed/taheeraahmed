@@ -4,6 +4,10 @@ Hi there, I'm Taheera (pronounced Tahira) and I'm a ✨Computer Science✨ stude
 
 
 ## 🌝 About my repo's
-I use github mostly for projects at school.
+Some of the stuff I've done:
+- Created a shell in C
+- Made my own neural network WITHOUT the use of tensorflow 
+- Made differnt types of chatbots 
+- Implemented KNN on datapoints in order to cluster them correctly
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taheeraahmed)
