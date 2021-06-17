@@ -4,6 +4,10 @@ Hi there, I'm Taheera (pronounced Tahira) and I'm a ✨Computer Science✨ stude
 
 
 ## 🌝 About my repositories
+Currently:
+- Making a react app
+- Learning Tensorflow
+
 Some of the stuff I've done:
 - Created a shell in C
 - Made my own neural network WITHOUT the use of the Python library tensorflow 
