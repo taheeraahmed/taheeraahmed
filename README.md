@@ -5,11 +5,10 @@ Hi there, I'm Taheera (pronounced Tahira) and I'm a ✨Computer Science✨ stude
 
 ## 🌝 About my repositories
 Currently:
-
 - Learning Tensorflow
 
 Some of the stuff I've done:
-- Making a react app [Click here](https://hopeful-babbage-48cc3c.netlify.app/)
+- Making a react app: [Click here](https://hopeful-babbage-48cc3c.netlify.app/)
 - Created a shell in C
 - Made my own neural network WITHOUT the use of the Python library tensorflow 
 - Made a generative(ish) chatbot which uses a neural network WITH Python libraries such as tensorflow and keras
