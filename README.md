@@ -6,6 +6,7 @@ Hi there, I'm Taheera (pronounced Tahira) and I'm a ✨Computer Science✨ stude
 ## 🌝 About my repositories
 Currently:
 - Learning Tensorflow
+- Learning React+Redux (going to make my own home-page) 
 
 Some of the stuff I've done:
 - Making a react app: [Click here](https://www.taheera.no)
