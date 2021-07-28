@@ -5,10 +5,11 @@ Hi there, I'm Taheera (pronounced Tahira) and I'm a ✨Computer Science✨ stude
 
 ## 🌝 About my repositories
 Currently:
-- Learning Tensorflow
+- Learning AWS stuff 
 - Learning React+Redux (going to make my own home-page) 
 
 Some of the stuff I've done:
+- Web scraping with beautiful soup
 - Making a react app: [Click here](https://www.taheera.no)
 - Created a shell in C
 - Made my own neural network WITHOUT the use of the Python library tensorflow 
