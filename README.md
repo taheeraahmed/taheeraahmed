@@ -18,3 +18,5 @@ Some of the stuff I've done:
 - Created a website called "Dinnersharing"
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taheeraahmed&hide=jupyter%20notebook&show_icons=true/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
