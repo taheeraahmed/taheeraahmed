@@ -17,6 +17,6 @@ Some of the stuff I've done:
 - Implemented KNN on datapoints in order to cluster them correctly
 - Created a website called "Dinnersharing"
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taheeraahmed&hide=jupyter%20notebook&show_icons=true/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taheeraahmed&hide=jupyter%20notebook&show_icons=true&theme=radical/)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=taheeraahmed&show_icons=true&theme=radical)
 
