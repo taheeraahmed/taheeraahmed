@@ -1,4 +1,4 @@
-<h3 align="center">👋 Heyyooo, I'm Taheera</h3>
+<h1 align="center">👋 Heyyooo, I'm Taheera</h1>
 <p align="center">
   <a href="https://www.taheera.no">Website</a> •
   <a href="https://www.tiktok.com/@taheera.py">Tiktok</a>
