@@ -10,6 +10,6 @@ Hi there, I'm Taheera (pronounced Tahira) and I'm a ✨Computer Science✨ and �
 Go to my website for more information: [my webpage](https://taheera.no)
 
 ---
-<p align="center">
+<div align="center">
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taheeraahmed&hide=jupyter%20notebook&show_icons=true&theme=radical/)
-</p>
+</div>
