@@ -6,7 +6,12 @@
 </p>
 
 ![just-a-line](https://github.com/taheeraahmed/taheeraahmed/blob/main/pastel-pink-blue-glittery-background.jpg?raw=true)
-Hi there, I'm Taheera (pronounced Tahira) and I'm on my 5th year of Computer Science and 3rd year of Electrical engineering at the Norwegian University of Science and Technology. I'm finished with both of my degrees in 2024, I really can't waaait!! I manily use Github for school projects, but also for my own projects. 
+
+💚 Currently on 5th year Computer Science student
+🐍 Studying in Norway at the Norwegian University of Science and Technology
+🌿 Learning Go at the moment
+🌱 Done with a BSc. in Electrical Engineering 
+🥝 Use Github for school projects, voluntary work at Samfundet and my own projects
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taheeraahmed&hide=jupyter%20notebook&show_icons=true&theme=radical/)
 
