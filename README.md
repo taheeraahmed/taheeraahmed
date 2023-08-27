@@ -7,7 +7,7 @@
 
 ![just-a-line](https://github.com/taheeraahmed/taheeraahmed/blob/main/pastel-pink-blue-glittery-background.jpg?raw=true)
 
-💚 Currently on 5th year Computer Science student
+💚 Currently on my 5th year of Computer Science student
 
 🐍 Studying in Norway at the Norwegian University of Science and Technology
 
