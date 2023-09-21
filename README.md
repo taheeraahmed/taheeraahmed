@@ -11,7 +11,7 @@
 
 🐍 Studying in Norway at the Norwegian University of Science and Technology
 
-🌿 Learning Go at the moment
+🌿 Learning Azure, Kotlin and tons of machine learning stuff at the moment
 
 🌱 Done with a BSc. in Electrical Engineering 
 
