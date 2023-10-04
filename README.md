@@ -1,5 +1,5 @@
-<h3 align="center" color="588157">👋 Heyyooo, I'm Taheera</h3>
-<p align="center" color="588157">
+<h3 align="center">👋 Heyyooo, I'm Taheera</h3>
+<p align="center">
   <a href="https://www.taheera.no">Website</a> 💞
   <a href="https://www.tiktok.com/@taheera.py">Tiktok</a> 💞
   <a href="https://www.linkedin.com/in/taheera-ahmed-997750158/">LinkedIn</a> 
@@ -16,6 +16,3 @@
 🌱 Done with a BSc. in Electrical Engineering 
 
 🥝 Use Github for school projects, voluntary work at Samfundet and my own projects
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taheeraahmed&hide=jupyter%20notebook&show_icons=true&theme=radical/)
-
