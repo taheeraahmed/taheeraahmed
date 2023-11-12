@@ -9,7 +9,7 @@
 
 💚 Currently on my 5th year of Computer Science student
 
-🐍 Studying in Norway at the Norwegian University of Science and Technology
+🐍 Studying at the Norwegian University of Science and Technology
 
 🌿 Learning Azure, Kotlin and tons of machine learning stuff at the moment
 
