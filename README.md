@@ -1,3 +1,4 @@
+![just-a-line](https://github.com/taheeraahmed/taheeraahmed/blob/main/banner.png?raw=true)
 <h3 align="center">👋 Heyyooo, I'm Taheera</h3>
 <p align="center">
   <a href="https://www.taheera.no">Website</a> 💛
@@ -7,12 +8,12 @@
 
 ![just-a-line](https://github.com/taheeraahmed/taheeraahmed/blob/main/banner.png?raw=true)
 
-💚 Currently on my 5th year of Computer Science student
+🩷 Currently on my 5th year of Computer Science student
 
-🐍 Studying at the Norwegian University of Science and Technology
+💚 Studying at the Norwegian University of Science and Technology
 
-🌿 Learning Azure, Kotlin and tons of machine learning stuff at the moment
+💛 Learning Azure, Kotlin and tons of machine learning stuff at the moment
 
-🌱 Done with a BSc. in Electrical Engineering 
+🩷 Done with a BSc. in Electrical Engineering 
 
-🥝 Use Github for school projects, voluntary work at Samfundet and my own projects
+💚 Use Github for school projects, voluntary work at Samfundet and my own projects
