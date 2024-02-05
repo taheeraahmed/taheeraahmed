@@ -8,7 +8,7 @@
 
 ![just-a-line](https://github.com/taheeraahmed/taheeraahmed/blob/main/banner.png?raw=true)
 
-💛 Currently on my 5th year of Computer Science student
+💛 Currently on my 5th and final year of Computer Science student
 
 💚 Studying at the Norwegian University of Science and Technology
 
