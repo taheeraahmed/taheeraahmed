@@ -14,6 +14,6 @@
 
 ✨ Learning Azure, Kotlin and tons of machine learning stuff at the moment
 
-✨ Done with a BSc. in Electrical Engineering 
+✨ Completed a BSc. in Electrical Engineering 
 
 ✨ Use Github for school projects, voluntary work at Samfundet and my own projects
