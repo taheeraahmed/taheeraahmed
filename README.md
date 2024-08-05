@@ -12,11 +12,9 @@
 ⠂⠁⠈⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠂⠁⠈⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂
 </p>
 <p align="center">
-  Currently on my 5th and final year of Computer Science
-  ♡ Studying at the Norwegian University of Science and Technology
-  ♡ Learning Azure, Kotlin and tons of machine learning stuff at the moment
-  ♡ Completed a BSc. in Electrical Engineering
-  ♡ Use Github for school projects, voluntary work at Samfundet and my own projects
+  Data scientist at NINA
+  ♡ Have a MSc. in Computer Science and a BSc. in Electrical engineering
+  ♡ Use Github for work, projects, and voluntary work at Samfundet and my own projects
 </p>
 
 
