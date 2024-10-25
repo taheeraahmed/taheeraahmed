@@ -13,7 +13,8 @@
 </p>
 <p align="center">
   Data scientist at NINA
-  ♡ Have a MSc. in Computer Science and a BSc. in Electrical engineering
+  ♡ MSc. in Computer Science (Spring 2024) 
+  ♡ BSc. in Electrical engineering (Spring 2023)
   ♡ Use Github for work, projects, and voluntary work at Samfundet and my own projects
 </p>
 
