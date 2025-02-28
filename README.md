@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/taheeraahmed/taheeraahmed/blob/main/ribbon-pixel-art.png?raw=true" width="100px" alt="just-a-line">
+  <img src="https://github.com/taheeraahmed/taheeraahmed/blob/main/terraria-pink.png?raw=true" width="100px" alt="just-a-line">
 </div>
 <h3 align="center">Heyyooo, I'm Taheera</h3>
 
