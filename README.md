@@ -15,7 +15,6 @@
   Data scientist at NINA
   ♡ MSc. in Computer Science
   ♡ BSc. in Electrical engineering
-  ♡ Use Github for work and personal projects
 </p>
 
 
